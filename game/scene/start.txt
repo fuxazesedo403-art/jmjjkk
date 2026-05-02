@@ -1,0 +1,16 @@
+changeBg:bg.webp;
+changeFigure:miniavatar_002.webp -left -transform={"position":{"y":186},"scale":{"y":1},"bloomThreshold":0} -enter=enter-from-left -exit=enter-from-left;
+jmjjkk:917813对话 -left;
+jmjjkk:jjj -left;
+jmjjkk:对话;
+jmjjkk:对话fff -left;
+setTextbox:hide;
+setAnimation:shockwaveOut -target=fig-left;
+changeFigure:miniavatar_002.webp -left -id=111;
+jj:对话魂环 -id -figureId=111;
+setTextbox:on;
+jj:对话看看 -id -figureId=111;
+changeFigure:选择立绘文件;
+changeFigure:选择立绘文件;
+changeFigure:选择立绘文件;
+changeBg: 选择背景图片;
